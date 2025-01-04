@@ -13,28 +13,12 @@ Show All Links: Displays a list of all saved links, with their corresponding num
 Delete Links: Removes the association of a number with a link, deleting it from the system.
 Help: Displays an explanation on how to use the program.
 Data Persistence: All links are saved in a JSON file, ensuring that your data is maintained between program runs.
-How to Use
-Clone this repository to your local machine:
+How to Use:
 
-bash
-Copy code
-git clone https://github.com/Juliano1086/agilizer.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd agilizer
-Install any necessary dependencies (if required):
-
-bash
-Copy code
-pip install pyfiglet
-Run the Python script:
-
-bash
-Copy code
-python3 agilizer.py
-In the menu, you can choose from the following options:
+- download agilizer.py
+- if you don't have it, download and install pyfiglet using "pip install pyfiglet" in your terminal
+- run the script in the terminal, using the command "python agilizer.py"
+- interact with the script
 
 1: Add/Edit link
 2: Open link
