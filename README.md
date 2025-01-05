@@ -17,6 +17,7 @@ How to Use:
 
 - download agilizer.py
 - if you don't have it, download and install pyfiglet using "pip install pyfiglet" in your terminal
+- change to the directory where the script is located
 - run the script in the terminal, using the command "python agilizer.py"
 - interact with the script
 
