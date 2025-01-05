@@ -22,10 +22,15 @@ How to Use:
 - interact with the script
 
 1: Add/Edit link
+
 2: Open link
+
 3: Show all links
+
 4: Delete link
+
 5: Display help
+
 6: Exit
 Dependencies
 Python 3: Ensure that Python 3 is installed on your system.
