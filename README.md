@@ -32,6 +32,7 @@ How to Use:
 5: Display help
 
 6: Exit
+
 Dependencies
 Python 3: Ensure that Python 3 is installed on your system.
 pyfiglet: A library used to generate ASCII art (for displaying the program name in a stylized way).
